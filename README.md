@@ -21,5 +21,5 @@ The goal was simple: Implement and compare multiple regression models to evaluat
 
 This project was a great way to solidify my understanding of model selection, overfitting, and performance evaluation.
 
-Contact me: e-mail[vedantranade2612@gmail.com]
-website : link[https://vedant-ranade.netlify.app/]
+Contact me: (e-mail)[vedantranade2612@gmail.com]
+website : (link)[https://vedant-ranade.netlify.app/]
